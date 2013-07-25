@@ -3,7 +3,7 @@ CubeForce
 
 Physics based game on Processing
 
-![Settings Window](http://raw.github.com/WiLLStenico/CubeForce/master/CubeForce.jpg)
+![Settings Window](https://raw.github.com/WiLLStenico/CubeForce/master/CubeForce.jpg)
 
 CubeForce is a physics based game wich you need to shoot in the cubes to rotate and direct them to hole.
 
