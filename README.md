@@ -1,7 +1,10 @@
 CubeForce
 =========
 
-Physics based game on Processing
+Physics based game on Processing:
+
+You can see the game running here:
+http://www.youtube.com/watch?v=WOiNKBLqUog&feature=youtu.be
 
 ![Settings Window](https://raw.github.com/WiLLStenico/CubeForce/master/CubeForce.jpg)
 
